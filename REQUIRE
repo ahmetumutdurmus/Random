@@ -1,0 +1,14 @@
+Atom
+Knet
+GZip
+ArgParse
+DataStructures
+ExcelReaders
+Images
+Plots
+Plotly
+MAT
+BenchmarkTools
+ForecastEval
+HttpParser
+DataFrames
